@@ -1,0 +1,14 @@
+numpy==1.26.4
+opencv-python==4.9.0.80
+scikit-learn==1.2.2
+pandas==2.2.1
+missingno==0.5.2
+matplotlib==3.8.3
+seaborn==0.13.2
+streamlit==1.32.2
+tensorflow==2.16.1
+streamlit-extras==0.4.0
+st-annotated-text==4.0.1
+
+
+-e .
