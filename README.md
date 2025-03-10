@@ -1,1 +1,1 @@
-
+The Health Discernment System is a machine learning-based classification project designed to detect and diagnose Malaria, Dengue, and Breast Cancer from medical images. By leveraging deep learning models, this system aims to assist healthcare professionals in making quick and accurate diagnoses, improving patient outcomes and early disease detection.
