@@ -15,10 +15,10 @@ def get_requirements(file_path:str)->List[str]:
     return requirements"""
 
 setup(
-    name='Onsite-Health-Diagnostic',
+    name='Health-Discerment-System',
     version='0.0.1',
-    author='Prajwal Krishna',
-    author_email='prajwalgbdr03@gmail.com',
+    author='Mohd Ammar',
+    author_email='mohdammar026@gmail.com',
     #install_requires=["scikit-learn","pandas","numpy"],
     packages=find_packages()
 )
